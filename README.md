@@ -4,7 +4,8 @@ A structured collection of Jupyter notebooks covering core data science and mach
 
 ## Structure
 
-- `01_numpy_intro/` – NumPy basics
+- `01_Numpy_intro/` – NumPy basics
+- `02_Pandas_intro/` – Pandas basics
 - *(...more to come)*
 
 Each folder contains:
